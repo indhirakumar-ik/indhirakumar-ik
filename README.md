@@ -23,3 +23,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=indhirakumar-ik&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </p>
 
+# my quote:
+"Failure teaches us to learn from mistakes. A bug in code shapes a good programmer. Fail, debug, and succeed—growth lies in the process. A Programmer not afraid of bug and a successful man not afraid of Failure"
