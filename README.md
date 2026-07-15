@@ -1,4 +1,4 @@
-👋 Hello, I'm Indhirakumar!
+#👋 Hello, I'm Indhirakumar!
 # 💫 About Me:
 Java developer |  DSA Problem solver | Fullstack Web Developer
 Currently working on: DSA and Development
