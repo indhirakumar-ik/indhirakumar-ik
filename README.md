@@ -23,5 +23,3 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=indhirakumar-ik&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i_k.crush006) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Indhira kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:indhirakumar49@gmail.com) 
