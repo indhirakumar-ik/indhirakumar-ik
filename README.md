@@ -43,20 +43,12 @@
 </p>
 </center>
 # 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=indhirakumar-ik&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=indhirakumar-ik&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=indhirakumar-ik&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=indhirakumar-ik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=indhirakumar-ik&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-## 🔥 GitHub Streak
+---
+[![](https://komarev.com/ghpvc/?username=indhirakumar-ik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=indhirakumar-ik&theme=tokyonight&hide_border=true" />
-</p>
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=indhirakumar-ik&theme=tokyo-night&hide_border=true" />
-</p>
 # my quote:
 "Failure teaches us to learn from mistakes. A bug in code shapes a good programmer. Fail, debug, and succeed—growth lies in the process. A Programmer not afraid of bug and a successful man not afraid of Failure"
