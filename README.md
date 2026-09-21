@@ -242,6 +242,9 @@ Worked on practical development and AI/ML-related tasks during internship.
 ## 💡 Developer Quote
 
 > **"Failure teaches us to learn from mistakes. A bug in code shapes a good programmer. Fail, debug, and succeed—growth lies in the process. A good Programmer not afraid of bug and a successful man not afraid of Failure"**
+** "Don’t miss because you’re tired.
+Don’t quit because you’re stuck.
+Don’t compare because someone is faster."**
 
 ### ⭐ Thanks for visiting my profile!
 
