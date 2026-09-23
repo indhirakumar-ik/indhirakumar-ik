@@ -26,12 +26,11 @@
 </div>
 
 <p align="center">
-🎓 B.Tech AI & Data Science Student<br>
- Passionate about Java, DSA & Software Development<br>
- Interested in AI, Machine Learning & Full-Stack Development<br>
- Currently improving my problem-solving and development skills<br>
- Building real-world projects to strengthen my technical skills<br>
- Goal: Become a skilled Software Engineer
+I am Indhirakumar, a final year B.Tech student specializing in Artificial Intelligence and Data Science. I am passionate about efficient, scalable, and intelligent software solutions. My primary interests lie in full-stack development, problem-solving, and applying AI concepts to real-world challenges.
+
+I have hands-on experience in programming languages such as Java and Python, along with front-end technologies like HTML, CSS, and JavaScript. I continuously work on improving my technical skills by building projects and exploring modern development tools. I am a DSA problem solver and have solved 100+ problems on LeetCode.
+
+My goal is to become a skilled software engineer and contribute to innovative technology solutions. Beyond academics and coding, I enjoy travelling and exploring new places. Traveling helps me gain fresh perspectives, improve creativity, and maintain a balanced lifestyle. I strongly believe that personal growth comes not only from technical skills but also from life experiences.
 </p>
 
 ---
