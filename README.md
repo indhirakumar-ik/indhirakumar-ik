@@ -26,7 +26,7 @@
 </div>
 
 <p align="center">
-I am Indhirakumar, a final year B.Tech student specializing in Artificial Intelligence and Data Science. I am passionate about efficient, scalable, and intelligent software solutions. My primary interests lie in full-stack development, problem-solving, and applying AI concepts to real-world challenges.
+a final year B.Tech student specializing in Artificial Intelligence and Data Science. I am passionate about efficient, scalable, and intelligent software solutions. My primary interests lie in full-stack development, problem-solving, and applying AI concepts to real-world challenges.
 
 I have hands-on experience in programming languages such as Java and Python, along with front-end technologies like HTML, CSS, and JavaScript. I continuously work on improving my technical skills by building projects and exploring modern development tools. I am a DSA problem solver and have solved 100+ problems on LeetCode.
 
